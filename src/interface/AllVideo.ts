@@ -1,3 +1,4 @@
-export interface TypeVideo {
-    videoType: string;
-  }
+export interface ServiceType {
+    videoType: number;
+    regionType: string;
+}
